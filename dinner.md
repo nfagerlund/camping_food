@@ -306,4 +306,4 @@ Per NF:
 In camp:
 - Boil 3/4 cup water, rehydrate rice with it, set aside.
 - Water amounts for different Indian dishes:
-    - Tart red lentils: 2 cups (2 1/4 was too soupy)
+    - Tart red lentils: Between 1 3/4 and 2 cups (2 1/4 is too soupy)
