@@ -248,15 +248,17 @@ Bag 3:
 Directions:
 
 Per NF:
-- Cold soak noodles for 30m.
-- Add mushrooms, onions, and ground beef into a large pot of water and bring to a boil. Stir.
-- Put dried sauce in bowl, and spoon boiling water over it. Mash to mix/rehydrate.
-- Wait 3-5 minutes for ground beef to start floating.
-- Once most of the ground beef floats, add noodles. Bring heat back up.
-- Check for doneness.
+- Cold soak separately, for 30m:
+    - Noodles in bowl
+    - Beef and veg in talenti jar
+- Transfer beef and veg into pot, add more water if needed (but leave room for noodles!), and bring to a boil. Stir, let rest.
+- Put dried sauce in talenti jar, and strain boiling water over it. Mash to mix/rehydrate.
+- Wait 3-5 minutes for ground beef to start floating. (It may or may not do this. Test for doneness if you get impatient.)
+- Once beef is done, add noodles. Bring heat back up, let rest, etc.
+- Check sauce texture one last time, and strain more water into it if needed.
+- Check noodles for doneness.
 - Drain water from the pot.
-    - Retaining a small tablespoon of water? Maybe, depends on sauce status.
-- Add rehydrated sauce and stir.
+- Add sauce and stir.
 - Add olive oil and top with parmesan cheese.
 
 
