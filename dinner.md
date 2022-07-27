@@ -299,6 +299,11 @@ Per NF:
 
 [🔝 Back to contents](#contents)
 
-- dehydrate two servings of whatever leftovers
+- dehydrate two servings (according to recipe) of whatever leftovers
 - 1/2 cup basmati rice dehydrated
 - 1 packet coconut oil
+
+In camp:
+- Boil 3/4 cup water, rehydrate rice with it, set aside.
+- Water amounts for different Indian dishes:
+    - Tart red lentils: 2 cups (2 1/4 was too soupy)
