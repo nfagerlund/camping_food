@@ -217,9 +217,11 @@ Separate:
 - 4oz packet of garlic instant mashed potatoes
 
 Per NF:
-- Soak beef & veg bag cold, ~ 1 cup water, 30m.
-- Bring soaked beef/veg to boil (w/ more water? if needed), wait, check for doneness, drain partially if needed. (**Leave > 1/8 cup water!**)
-- Add tomato/gravy bag and stir well. Set aside in bowl. Don't worry about getting cold.
+- Cold soak beef & veg bag, ~ 1 cup water, 30m.
+- Bring soaked beef/veg to boil (w/ more water? if needed), wait, check for doneness.
+- Put gravy powders in bowl. Strain some beef/veg water directly into it and mix to proper consistency.
+- Strain remaining beef/veg water into Talenti jar and set aside, in case gravy needs more later.
+- Add strained beef/veg to gravy in bowl, set aside. Don't worry about getting cold.
 - Cook garlic mashed potatoes (whole bag, if solidly hungry) per instructions.
 - Divide both parts, use heat from taters to re-heat the beef/veg.
 
@@ -297,6 +299,11 @@ Per NF:
 
 [🔝 Back to contents](#contents)
 
-- dehydrate two servings of whatever leftovers
+- dehydrate two servings (according to recipe) of whatever leftovers
 - 1/2 cup basmati rice dehydrated
 - 1 packet coconut oil
+
+In camp:
+- Boil 3/4 cup water, rehydrate rice with it, set aside.
+- Water amounts for different Indian dishes:
+    - Tart red lentils: 2 cups (2 1/4 was too soupy)

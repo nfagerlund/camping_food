@@ -80,6 +80,8 @@ Boil 8oz water, etc.
 
 https://www.thrueat.com/backpacking-recipes/parmesan-spinach-and-bacon-grits
 
+It's the Albers "quick grits."
+
 Prep: Combine all in one bag. (Original recipe had two bags, but it's fine.)
 
 - 2/3 cup grits
@@ -98,6 +100,8 @@ Prep: Combine all in one bag. (Original recipe had two bags, but it's fine.)
 
 - 2.5 cups of water to boil.
 - Add everything.
+
+Altitude (> 8k) affects grits the most. If you wait and it's still soup, carefully heat it some more.
 
 ## CHEESY CHEDDAR GRITS WITH MUSHROOMS
 
@@ -124,6 +128,8 @@ No olive oil. (?)
 
 - 2.25 cups of water to boil.
 - Add everything.
+
+Altitude (> 8k) affects grits the most. If you wait and it's still soup, carefully heat it some more.
 
 ## MASHED POTATOES
 
