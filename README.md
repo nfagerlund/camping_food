@@ -38,41 +38,42 @@ Jasmine or basmati rice --
 Car food:
 ---
 
-coconut water
-salt and vinegar chips
+- coconut water
+- salt and vinegar chips
 
 Trail Food:
 ---
 
-chili lime cashews
-other savory nuts?
-ranch chickpeas
-trail mix
-mango
-bars
-energy chews
-chocolate
-peanut butter cups
+- chili lime cashews
+- other savory nuts?
+- ranch chickpeas
+- trail mix
+- mango
+- bars
+- energy chews
+- chocolate
+- peanut butter cups
 
 Drinks
 ---
 
-hot cocoa
-apple cider
-tea
-powdered milk
-instant coffee
-coconut oil
+- instant coffee
+    - Best is to mix one TJ's or Korean doctored coffee with one black coffee in the big thermos, then move half the mixed coffee to the little thermos.
+- hot cocoa
+- apple cider
+- tea
+- powdered milk
+- coconut oil
 
 Lunch:
 ---
 
-flat bread
-peanut butter
-jelly
-nutella?
-mustard
-salami
-cheese
+- flat bread
+- peanut butter
+- jelly
+- nutella?
+- mustard
+- salami
+- cheese
 
 

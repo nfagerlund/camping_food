@@ -102,6 +102,7 @@ Prep: Make two bags per lunch, and put HALF of each ingredient into each.
 - 1 tbsp ras al hanout
 - 1/2 tsp true lemon
 - 1/2 tsp chicken broth
+- 1/2 tsp salt (diamond crystal)
 
 Separately:
 - olive oil x2
