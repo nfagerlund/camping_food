@@ -1,6 +1,6 @@
-## Breakfast
+# Breakfast
 
-### RASPBERRY OATMEAL
+## RASPBERRY OATMEAL
 
 - 1 cup "minute oats" from the bulk bins (or 3 tj's oatmeal packets)
 - 2T chia seeds
@@ -13,7 +13,7 @@
 
 Boil 2 cups water and add everything.
 
-### BLUEBERRY LEMON OATMEAL
+## BLUEBERRY LEMON OATMEAL
 
 - 3 packets tj's oatmeal (= 1 cup)
 - 2T chia seeds
@@ -27,7 +27,7 @@ Boil 2 cups water and add everything.
 
 Boil 2 cups water and add everything.
 
-### RICE PUDDING
+## RICE PUDDING
 
 Recipe: in "Lip Smackin Vegetarian Backpackin" p. 18
 
@@ -46,7 +46,7 @@ second bag:
 Boil 1 3/4 cups water, add rice, heat 10 minutes.
 Add pudding mix, stir.
 
-### APPLE QUINOA PORRIDGE
+## APPLE QUINOA PORRIDGE
 
 https://www.rei.com/blog/camp/backpacking-recipe-apple-quinoa-porridge
 
@@ -56,7 +56,7 @@ https://www.rei.com/blog/camp/backpacking-recipe-apple-quinoa-porridge
 
 Boil 8oz water, etc.
 
-### PARMESAN GRITS WITH SPINACH
+## PARMESAN GRITS WITH SPINACH
 
 https://www.thrueat.com/backpacking-recipes/parmesan-spinach-and-bacon-grits
 
@@ -79,7 +79,7 @@ Prep: Combine all in one bag. (Original recipe had two bags, but it's fine.)
 - 2.5 cups of water to boil.
 - Add everything.
 
-### CHEESY CHEDDAR GRITS WITH MUSHROOMS
+## CHEESY CHEDDAR GRITS WITH MUSHROOMS
 
 Prep: Combine all in one bag. (Original recipe had two bags, but it's fine.)
 
@@ -103,7 +103,7 @@ No olive oil. (?)
 - 2.25 cups of water to boil.
 - Add everything.
 
-### MASHED POTATOES
+## MASHED POTATOES
 
 if have cheese:
 - 1 cup (1/2 cup per person) potatoes (butter flavor)

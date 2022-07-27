@@ -1,6 +1,6 @@
-## Lunch
+# Lunch
 
-### HUMMUS
+## HUMMUS
 
 For August 20:
 - 70g hummus powder
@@ -10,7 +10,7 @@ For August 20:
 Rehydrate carefully -- it uses way less water than anything else (1/4 c?), but at least it goes fast, so you can watch how it's handling it.
 Serve with plain rye crisps and salami.
 
-### RED PEPPER HUMMUS
+## RED PEPPER HUMMUS
 
 pre-prep: dried red pepper blend:
 - 2 roasted red peppers
@@ -29,7 +29,7 @@ Prep: This is a full lunch amount, and since it's more homogenous than a couscou
 
 Rehydrate interactively in a Talenti jar in the morning. You can never guess the right amount of water to use a priori, so just keep mixing until it works, and then you'll need to add more once it's lunchtime anyway. :shrug:
 
-### BEAN DIP
+## BEAN DIP
 
 Recipe: pg. 68 in Lipsmackin' Vegetarian Backpackin'
 
@@ -38,7 +38,7 @@ Cold soak with 1 cup water.
 Olive oil
 Caraway rye crisps.
 
-### WHITE BEAN COUSCOUS
+## WHITE BEAN COUSCOUS
 
 Prep: Make two bags per lunch, and put HALF of each ingredient into each.
 
@@ -70,7 +70,7 @@ Cold soak (per batch): add 1 cup water, pack, eat for lunch.
 
 Notes: Previously, we made this with 1 cup couscous, but it was too much food for 2 people. Also, a 3-1 water ratio was too much; 2.5-1 was closer.
 
-### MOROCCAN SPICED COUSCOUS
+## MOROCCAN SPICED COUSCOUS
 
 Prep: Make two bags per lunch, and put HALF of each ingredient into each.
 
@@ -89,7 +89,7 @@ Separately:
 Pack as two batches, first and second lunch. (Full amount needs a liter of capacity, talenti jar is a pint.)
 Cold soak (per batch): add 1 cup water, pack, eat for lunch.
 
-### COWBOY CAVIAR COUSCOUS
+## COWBOY CAVIAR COUSCOUS
 
 Prep: Make two bags per lunch, and put HALF of each ingredient into each.
 
@@ -114,7 +114,7 @@ Separately:
 Pack as two batches, first and second lunch. (Full amount needs a liter of capacity, talenti jar is a pint.)
 Cold soak (per batch): add 1 cup water, pack, eat for lunch.
 
-### PESTO COUSCOUS
+## PESTO COUSCOUS
 
 Prep: Make two bags per lunch, and put HALF of each ingredient into each.
 

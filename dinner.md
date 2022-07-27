@@ -1,6 +1,6 @@
-## Dinner
+# Dinner
 
-### RICE AND BEANS
+## RICE AND BEANS
 
 Main bag:
 - 1 can beans, dehyrated = ~3/4 cup dehydrated
@@ -32,7 +32,7 @@ Notes:
 - Don't pre-soak the whole shebang and then bring to boil. Too much stuff in there, it'll end up not heating all the way through and burning to the bottom. Pre-soak should only be for the veg.
 
 
-### MAC AND CHEESE AND TUNA
+## MAC AND CHEESE AND TUNA
 
 - Annie's, 1 box
     - pasta
@@ -52,7 +52,7 @@ Per NF:
 - Ruth packs an arbitrary amount of spices, not a "just right" amount, so add what seems right instead of dumping it all in. <3
 
 
-### ALFREDO AND SALMON PASTA
+## ALFREDO AND SALMON PASTA
 
 - alfredo pasta mix thing ^H^H^H^H^H
     - Replace this w/ something like Annie’s Alfredo, that keeps the pasta and sauce powder separated!
@@ -77,7 +77,7 @@ Per NF:
 - Boil peas with only the amount of water the mix requires.
 - Add mix, etc.
 
-### THANKSGIVING LEFTOVERS
+## THANKSGIVING LEFTOVERS
 
 https://www.rei.com/blog/camp/backpacking-recipes-thanksgiving-in-a-collapsible-bowl
 
@@ -96,7 +96,7 @@ Cook gravy first (insert packet instructions here) and pour into thermos. Strain
 
 Notes: This version of the recipe is untested. First time we tried this, it was in three or four parts (stuffing, taters, gravy,) and it was incredibly fussy to work w/. Used mixed veggies, which were underwhelming, and decided we’d rather just have peas. Also we made 4x the gravy we could eat and had to bury it in a cat hole, which was humiliating and gross (but also totally hilarious).
 
-### THAI RED CURRY CHICKEN
+## THAI RED CURRY CHICKEN
 
 https://www.thrueat.com/backpacking-recipes/chicken-thai-curry
 
@@ -138,7 +138,7 @@ Per original recipe:
 > 5. Add Bag 2 (all the powdered ingredients) and stir to combine.
 > 6. If necessary, add more water and place back on heat.
 
-### PEANUT BUTTER NOODLES
+## PEANUT BUTTER NOODLES
 
 From Backcountry Foodie: Ultralight Recipes for Outdoor Explorers
 
@@ -164,7 +164,7 @@ Boil 8 oz water (maybe a bit more... like 10 oz?). Add noodles and veg. Soak til
 
 Drain, reserving 4oz. Add sauce packet and coconut oil.
 
-### COTTAGE PIE
+## COTTAGE PIE
 
 https://www.thrueat.com/backpacking-recipes/cottage-pie
 
@@ -195,7 +195,7 @@ Per NF:
 - Cook garlic mashed potatoes (whole bag, if solidly hungry) per instructions.
 - Divide both parts, use heat from taters to re-heat the beef/veg.
 
-### SPAGHETTI AND MEAT SAUCE
+## SPAGHETTI AND MEAT SAUCE
 
 https://www.thrueat.com/backpacking-recipes/your-favorite-backpacking-spaghetti
 
@@ -228,7 +228,7 @@ Per NF:
 - Add olive oil and top with parmesan cheese.
 
 
-### RED LENTIL MARINARA
+## RED LENTIL MARINARA
 
 Recipe: https://www.freshoffthegrid.com/dehydrated-red-lentil-marinara/
 - added in some cayenne
@@ -242,7 +242,7 @@ Recipe: https://www.freshoffthegrid.com/dehydrated-red-lentil-marinara/
 - parmesan (2 packets or 1T in dime bag)
 - 150g pasta (cooked and dehydrated)
 
-### RED LENTIL AND PRESERVED LEMON SOUP
+## RED LENTIL AND PRESERVED LEMON SOUP
 
 Bag 1:
 - Dried basmati rice: 1/2 cup uncooked amount, cooked and then dehydrated.
@@ -259,7 +259,7 @@ Per NF:
 - Add coconut oil to soup.
 - Portion out with rice.
 
-### INDIAN
+## INDIAN
 
 - dehydrate two servings of whatever leftovers
 - 1/2 cup basmati rice dehydrated
