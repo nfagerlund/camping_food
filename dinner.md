@@ -1,335 +1,22 @@
-# Almanac
-
-Dehydrated beans are supposedly 1:1 ratio (by volume) for rehydrating. A can of beans comes out to a little less than a cup of dried beans.
-
-Minute rice is also 1:1 by volume! You hit with boiling water, then let it sit for 5 minutes and then fluff it.
-
-Nido milk: 4:1.
-
-Instant oats are 2:1.
-
-Instant mashed taters are ~ 2:1? It's 1/2 cup water per ounce (by weight), so write down how much you're packing if you aren't using the original packaging.
-
-Red curry paste -- once dehydrated and ground into powder, its density is 2 grams per 1 teaspoon.
-
-Jasmine or basmati rice --
-- 3/4 cup water rehydrates 1/2 cup rice (uncooked amt) (or 70g dehydrated cooked).
-- 1 cup uncooked yields 140g cooked-and-dehydrated rice... and 1/2 cup uncooked (so 70g dried) feeds both of us when served with a meal that has lentils in it. The red curry uses a bit more, over 3/4 cup uncooked, and we handle the rehydration differently.
-
-
-# Dry/wet equivalencies
-
-- 1 can white beans = ~1 cup dehydrated white beans (~80g)
-- 1 can black beans = 7/8 cup dehydrated (~90g)
-- 1 can chickpeas = ~3/4 cup dehydrated chickpeas (~90g)
-- 1 1/2 cup frozen peas = ~1/3 cup dehydrated
-  - 1/2 cup frozen frozen peas = 1/9 cup dehydrated  = 16/3 tsp (5.3 tsp so like 1T + 2tsp)
-
-# Ideas
-
-Car food:
----
-
-coconut water
-salt and vinegar chips
-
-Trail Food:
----
-
-chili lime cashews
-other savory nuts?
-ranch chickpeas
-trail mix
-mango
-bars
-energy chews
-chocolate
-peanut butter cups
-
-Drinks
----
-
-hot cocoa
-apple cider
-tea
-powdered milk
-instant coffee
-coconut oil
-
-Lunch:
----
-
-flat bread
-peanut butter
-jelly
-nutella?
-mustard
-salami
-cheese
-
-
-# Recipes:
-
-Unless otherwise noted, these amounts are all for two people!
-
-## Breakfast
-
-### RASPBERRY OATMEAL
-
-- 1 cup "minute oats" from the bulk bins (or 3 tj's oatmeal packets)
-- 2T chia seeds
-- 1/3 cup freeze dried raspberries
-- 1T Nido milk powder
-- 1/4 cup walnuts (?)
-
-- 2 packets brown sugar
-- 1 packet coconut oil
-
-Boil 2 cups water and add everything.
-
-### BLUEBERRY LEMON OATMEAL
-
-- 3 packets tj's oatmeal (= 1 cup)
-- 2T chia seeds
-- 1 packet true lemon (1/2-1/4 tsp)
-- 1/2 cup freeze dried blueberries
-- 1/4 cup chopped almonds
-- 1T Nido milk powder
-
-- 1 packet coconut oil
-- 2 packets brown sugar (1 each)
-
-Boil 2 cups water and add everything.
-
-### RICE PUDDING
-
-Recipe: in "Lip Smackin Vegetarian Backpackin" p. 18
-
-first bag:
-- 1 cup instant brown Minute Rice
-
-second bag:
-- 2T vanilla instant pudding
-- 2T powdered milk
-- 2T coconut cream powder
-- 1T chia seeds
-- 1/4 tsp cinnamon
-- 1/4 cup dried cranberries
-- 2T chopped honey roasted peanuts
-
-Boil 1 3/4 cups water, add rice, heat 10 minutes.
-Add pudding mix, stir.
-
-### APPLE QUINOA PORRIDGE
-
-https://www.rei.com/blog/camp/backpacking-recipe-apple-quinoa-porridge
-
-- 1/2 of the above recipe of quinoa stuff, dehydrated all together
-- 2T coconut milk powder
-- 1/4c? choppped pecans
-
-Boil 8oz water, etc.
-
-### PARMESAN GRITS WITH SPINACH
-
-https://www.thrueat.com/backpacking-recipes/parmesan-spinach-and-bacon-grits
-
-Prep: Combine all in one bag. (Original recipe had two bags, but it's fine.)
-
-- 2/3 cup grits
-- 2T onions
-- 1T dried bell pepper
-- 10g dried spinach (big handful - 1/2 cup? - dried)
-- 2T butter powder
-- 2T parmesan cheese (4T was too much) + 1T cheddar cheese
-- 2 dashes black pepper
-- 1/4 tsp garlic powder
-- 2T immitation bacon
-- 1 tsp bouillon
-- dash cayenne
-
-- cholula/hot sauce goes really well with this
-
-- 2.5 cups of water to boil.
-- Add everything.
-
-### CHEESY CHEDDAR GRITS WITH MUSHROOMS
-
-Prep: Combine all in one bag. (Original recipe had two bags, but it's fine.)
-
-- 2/3 cup grits
-- 2T onions
-- 3T sliced up mushroom
-- 3T dried bell pepper
-- 2T butter powder
-- 2T cheddar cheese powder
-- 2T fake bacon
-- dash cayenne
-- 1/4 tsp paprika
-- 1/4 tsp garlic powder
-- 2 dashes pepper
-- 1 tsp bouillon
-
-- cholula/hot sauce goes really well with this
-
-No olive oil. (?)
-
-- 2.25 cups of water to boil.
-- Add everything.
-
-### MASHED POTATOES
-
-if have cheese:
-- 1 cup (1/2 cup per person) potatoes (butter flavor)
-- cheddar cheese
-
-otherwise:
-- 1 cup (1/2 cup per person) potatoes (loaded or other flavor)
-- some butter powder, cheese powder, bacon bits, maybe scallions
-
-## Lunch
-
-### HUMMUS
-
-For August 20:
-- 70g hummus powder
-- start with 1/2 cup water
-- olive oil
-
-Rehydrate carefully -- it uses way less water than anything else (1/4 c?), but at least it goes fast, so you can watch how it's handling it.
-Serve with plain rye crisps and salami.
-
-### RED PEPPER HUMMUS
-
-pre-prep: dried red pepper blend:
-- 2 roasted red peppers
-- a little less than 1 chipotle chili in adobo
-    - The goal here is to not give Ruth acid reflux. <3
-- mix in food processor, dehydrate
-    - this made 35g first time, split that across 2 meals
-
-Prep: This is a full lunch amount, and since it's more homogenous than a couscous and it's not possible to derive the right amount of water to use anyway (apart from trial and error), you might as well just pack it in a single bag.
-
-- 70g hummus powder
-- ~17g pepper powder
-- 1/4 - 1/2 tsp true lemon (1 tsp too much)
-- 2 packets olive oil
-- Caraway rye crisps
-
-Rehydrate interactively in a Talenti jar in the morning. You can never guess the right amount of water to use a priori, so just keep mixing until it works, and then you'll need to add more once it's lunchtime anyway. :shrug:
-
-### BEAN DIP
-
-Recipe: pg. 68 in Lipsmackin' Vegetarian Backpackin'
-
-Pack as full 2-person lunch.
-Cold soak with 1 cup water.
-Olive oil
-Caraway rye crisps.
-
-### WHITE BEAN COUSCOUS
-
-Prep: Make two bags per lunch, and put HALF of each ingredient into each.
-
-- couscous, 2/3 cup (150g of the whole wheat TJ's stuff)
-- dehydrated white beans (1 can)
-- sun-dried tomatoes (1/3 - 1/2 cup, 40-45g)
-- 1.5T dried onions
-- (1T dried pepper)
-- bouillion cube (1 tsp)
-- spices, pre-mixed in:
-    - paprika (1/2tsp)
-    - oregano (1tsp)
-    - basil (1tsp)
-    - salt (1/2tsp)
-    - pepper (1/2tsp)
-    - garlic powder (1/2tsp)
-
-Separately:
-- olives in a packet
-- capers in a lil ziplock
-- olive oil x2
-
-Dinner:
-Boil 2 1/4 cups water (1 7/8 c. plus some for dried onions) and add everything.
-
-Lunch:
-Pack as two batches, first and second lunch. (Full amount needs a liter of capacity, talenti jar is a pint.)
-Cold soak (per batch): add 1 cup water, pack, eat for lunch.
-
-Notes: Previously, we made this with 1 cup couscous, but it was too much food for 2 people. Also, a 3-1 water ratio was too much; 2.5-1 was closer.
-
-### MOROCCAN SPICED COUSCOUS
-
-Prep: Make two bags per lunch, and put HALF of each ingredient into each.
-
-- can dehydrated chickpeas (~ 90g, /2 = 45g)
-- 2/3 cup couscous (150g, /2 = 75g)
-- 1/3 cup dried chopped apricots (50g, 25g)
-- 1/3 cup chopped almonds (50g, 25g)
-- 1/3 cup raisins (50g, 25g)
-- 1 tbsp ras al hanout
-- 1/2 tsp true lemon
-- 1/2 tsp chicken broth
-
-Separately:
-- olive oil x2
-
-Pack as two batches, first and second lunch. (Full amount needs a liter of capacity, talenti jar is a pint.)
-Cold soak (per batch): add 1 cup water, pack, eat for lunch.
-
-### COWBOY CAVIAR COUSCOUS
-
-Prep: Make two bags per lunch, and put HALF of each ingredient into each.
-
-- couscous - 2/3 cup
-- black bean - 1 can dehydrated
-- 4T pico de gallo
-  - from https://www.foodnetwork.com/recipes/ree-drummond/pico-de-gallo-recipe-2122359 (made 1/3 which is still a massive amount)
-- 3T dehydrated peppers
-- 3T corn
-- 1 tsp true lime
-- cumin + chili powder (spice mix)
-    - 1/2 tsp cumin ground
-    - 1/4 tsp chili powder
-        - _(re-evaluate post-Muir)_
-    - 1/2 tsp garlic powder
-- 1/2 tsp chicken boullion powder
-- 1/2 tsp salt (diamond crystal kosher)
-
-Separately:
-- olive oil packet x2
-
-Pack as two batches, first and second lunch. (Full amount needs a liter of capacity, talenti jar is a pint.)
-Cold soak (per batch): add 1 cup water, pack, eat for lunch.
-
-### PESTO COUSCOUS
-
-Prep: Make two bags per lunch, and put HALF of each ingredient into each.
-
-in two bags:
-- couscous, 2/3 cup
-- dehydrated white beans (1 can)
-- sun-dried tomatoes (1/3 - 1/2 cup)
-- 1.5T dried onions
-- 2T dehydrated pepper
-- maybe some garlic/some of the spices from white bean couscous
-- pesto (from packet)
-- 1/2 tsp bouillion powder
-
-separate:
-- olives in a packet
-- olive oil
-- parmesan cheese (in a packet)
-
-Lunch:
-Pack as two batches, first and second lunch. (Full amount needs a liter of capacity, talenti jar is a pint.)
-Cold soak (per batch): add 1 cup water, pack, eat for lunch.
-
-
-## Dinner
-
-### RICE AND BEANS
+# Dinner
+
+## Contents
+
+- [Rice and beans](#rice-and-beans)
+- [Mac and cheese and tuna](#mac-and-cheese-and-tuna)
+- [Alfredo and salmon pasta](#alfredo-and-salmon-pasta)
+- [Thanksgiving leftovers](#thanksgiving-leftovers)
+- [Thai red curry chicken](#thai-red-curry-chicken)
+- [Peanut butter noodles](#peanut-butter-noodles)
+- [Cottage pie](#cottage-pie)
+- [Spaghetti and meat sauce](#spaghetti-and-meat-sauce)
+- [Red lentil marinara](#red-lentil-marinara)
+- [Red lentil and preserved lemon soup](#red-lentil-and-preserved-lemon-soup)
+- [Indian](#indian)
+
+## RICE AND BEANS
+
+[🔝 Back to contents](#contents)
 
 Main bag:
 - 1 can beans, dehyrated = ~3/4 cup dehydrated
@@ -361,7 +48,9 @@ Notes:
 - Don't pre-soak the whole shebang and then bring to boil. Too much stuff in there, it'll end up not heating all the way through and burning to the bottom. Pre-soak should only be for the veg.
 
 
-### MAC AND CHEESE AND TUNA
+## MAC AND CHEESE AND TUNA
+
+[🔝 Back to contents](#contents)
 
 - Annie's, 1 box
     - pasta
@@ -381,7 +70,9 @@ Per NF:
 - Ruth packs an arbitrary amount of spices, not a "just right" amount, so add what seems right instead of dumping it all in. <3
 
 
-### ALFREDO AND SALMON PASTA
+## ALFREDO AND SALMON PASTA
+
+[🔝 Back to contents](#contents)
 
 - alfredo pasta mix thing ^H^H^H^H^H
     - Replace this w/ something like Annie’s Alfredo, that keeps the pasta and sauce powder separated!
@@ -406,7 +97,9 @@ Per NF:
 - Boil peas with only the amount of water the mix requires.
 - Add mix, etc.
 
-### THANKSGIVING LEFTOVERS
+## THANKSGIVING LEFTOVERS
+
+[🔝 Back to contents](#contents)
 
 https://www.rei.com/blog/camp/backpacking-recipes-thanksgiving-in-a-collapsible-bowl
 
@@ -425,7 +118,9 @@ Cook gravy first (insert packet instructions here) and pour into thermos. Strain
 
 Notes: This version of the recipe is untested. First time we tried this, it was in three or four parts (stuffing, taters, gravy,) and it was incredibly fussy to work w/. Used mixed veggies, which were underwhelming, and decided we’d rather just have peas. Also we made 4x the gravy we could eat and had to bury it in a cat hole, which was humiliating and gross (but also totally hilarious).
 
-### THAI RED CURRY CHICKEN
+## THAI RED CURRY CHICKEN
+
+[🔝 Back to contents](#contents)
 
 https://www.thrueat.com/backpacking-recipes/chicken-thai-curry
 
@@ -467,7 +162,9 @@ Per original recipe:
 > 5. Add Bag 2 (all the powdered ingredients) and stir to combine.
 > 6. If necessary, add more water and place back on heat.
 
-### PEANUT BUTTER NOODLES
+## PEANUT BUTTER NOODLES
+
+[🔝 Back to contents](#contents)
 
 From Backcountry Foodie: Ultralight Recipes for Outdoor Explorers
 
@@ -493,7 +190,9 @@ Boil 8 oz water (maybe a bit more... like 10 oz?). Add noodles and veg. Soak til
 
 Drain, reserving 4oz. Add sauce packet and coconut oil.
 
-### COTTAGE PIE
+## COTTAGE PIE
+
+[🔝 Back to contents](#contents)
 
 https://www.thrueat.com/backpacking-recipes/cottage-pie
 
@@ -524,7 +223,9 @@ Per NF:
 - Cook garlic mashed potatoes (whole bag, if solidly hungry) per instructions.
 - Divide both parts, use heat from taters to re-heat the beef/veg.
 
-### SPAGHETTI AND MEAT SAUCE
+## SPAGHETTI AND MEAT SAUCE
+
+[🔝 Back to contents](#contents)
 
 https://www.thrueat.com/backpacking-recipes/your-favorite-backpacking-spaghetti
 
@@ -557,7 +258,9 @@ Per NF:
 - Add olive oil and top with parmesan cheese.
 
 
-### RED LENTIL MARINARA
+## RED LENTIL MARINARA
+
+[🔝 Back to contents](#contents)
 
 Recipe: https://www.freshoffthegrid.com/dehydrated-red-lentil-marinara/
 - added in some cayenne
@@ -571,7 +274,9 @@ Recipe: https://www.freshoffthegrid.com/dehydrated-red-lentil-marinara/
 - parmesan (2 packets or 1T in dime bag)
 - 150g pasta (cooked and dehydrated)
 
-### RED LENTIL AND PRESERVED LEMON SOUP
+## RED LENTIL AND PRESERVED LEMON SOUP
+
+[🔝 Back to contents](#contents)
 
 Bag 1:
 - Dried basmati rice: 1/2 cup uncooked amount, cooked and then dehydrated.
@@ -588,10 +293,10 @@ Per NF:
 - Add coconut oil to soup.
 - Portion out with rice.
 
-### INDIAN
+## INDIAN
+
+[🔝 Back to contents](#contents)
 
 - dehydrate two servings of whatever leftovers
 - 1/2 cup basmati rice dehydrated
 - 1 packet coconut oil
-
-
