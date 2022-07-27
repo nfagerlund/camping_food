@@ -12,6 +12,8 @@
 
 ## HUMMUS
 
+[🔝 Back to contents](#contents)
+
 For August 20:
 - 70g hummus powder
 - start with 1/2 cup water
@@ -21,6 +23,8 @@ Rehydrate carefully -- it uses way less water than anything else (1/4 c?), but a
 Serve with plain rye crisps and salami.
 
 ## RED PEPPER HUMMUS
+
+[🔝 Back to contents](#contents)
 
 pre-prep: dried red pepper blend:
 - 2 roasted red peppers
@@ -41,6 +45,8 @@ Rehydrate interactively in a Talenti jar in the morning. You can never guess the
 
 ## BEAN DIP
 
+[🔝 Back to contents](#contents)
+
 Recipe: pg. 68 in Lipsmackin' Vegetarian Backpackin'
 
 Pack as full 2-person lunch.
@@ -49,6 +55,8 @@ Olive oil
 Caraway rye crisps.
 
 ## WHITE BEAN COUSCOUS
+
+[🔝 Back to contents](#contents)
 
 Prep: Make two bags per lunch, and put HALF of each ingredient into each.
 
@@ -82,6 +90,8 @@ Notes: Previously, we made this with 1 cup couscous, but it was too much food fo
 
 ## MOROCCAN SPICED COUSCOUS
 
+[🔝 Back to contents](#contents)
+
 Prep: Make two bags per lunch, and put HALF of each ingredient into each.
 
 - can dehydrated chickpeas (~ 90g, /2 = 45g)
@@ -100,6 +110,8 @@ Pack as two batches, first and second lunch. (Full amount needs a liter of capac
 Cold soak (per batch): add 1 cup water, pack, eat for lunch.
 
 ## COWBOY CAVIAR COUSCOUS
+
+[🔝 Back to contents](#contents)
 
 Prep: Make two bags per lunch, and put HALF of each ingredient into each.
 
@@ -125,6 +137,8 @@ Pack as two batches, first and second lunch. (Full amount needs a liter of capac
 Cold soak (per batch): add 1 cup water, pack, eat for lunch.
 
 ## PESTO COUSCOUS
+
+[🔝 Back to contents](#contents)
 
 Prep: Make two bags per lunch, and put HALF of each ingredient into each.
 

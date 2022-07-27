@@ -12,6 +12,8 @@
 
 ## RASPBERRY OATMEAL
 
+[🔝 Back to contents](#contents)
+
 - 1 cup "minute oats" from the bulk bins (or 3 tj's oatmeal packets)
 - 2T chia seeds
 - 1/3 cup freeze dried raspberries
@@ -24,6 +26,8 @@
 Boil 2 cups water and add everything.
 
 ## BLUEBERRY LEMON OATMEAL
+
+[🔝 Back to contents](#contents)
 
 - 3 packets tj's oatmeal (= 1 cup)
 - 2T chia seeds
@@ -38,6 +42,8 @@ Boil 2 cups water and add everything.
 Boil 2 cups water and add everything.
 
 ## RICE PUDDING
+
+[🔝 Back to contents](#contents)
 
 Recipe: in "Lip Smackin Vegetarian Backpackin" p. 18
 
@@ -58,6 +64,8 @@ Add pudding mix, stir.
 
 ## APPLE QUINOA PORRIDGE
 
+[🔝 Back to contents](#contents)
+
 https://www.rei.com/blog/camp/backpacking-recipe-apple-quinoa-porridge
 
 - 1/2 of the above recipe of quinoa stuff, dehydrated all together
@@ -67,6 +75,8 @@ https://www.rei.com/blog/camp/backpacking-recipe-apple-quinoa-porridge
 Boil 8oz water, etc.
 
 ## PARMESAN GRITS WITH SPINACH
+
+[🔝 Back to contents](#contents)
 
 https://www.thrueat.com/backpacking-recipes/parmesan-spinach-and-bacon-grits
 
@@ -91,6 +101,8 @@ Prep: Combine all in one bag. (Original recipe had two bags, but it's fine.)
 
 ## CHEESY CHEDDAR GRITS WITH MUSHROOMS
 
+[🔝 Back to contents](#contents)
+
 Prep: Combine all in one bag. (Original recipe had two bags, but it's fine.)
 
 - 2/3 cup grits
@@ -114,6 +126,8 @@ No olive oil. (?)
 - Add everything.
 
 ## MASHED POTATOES
+
+[🔝 Back to contents](#contents)
 
 if have cheese:
 - 1 cup (1/2 cup per person) potatoes (butter flavor)
