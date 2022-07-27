@@ -1,5 +1,19 @@
 # Dinner
 
+## Contents
+
+- [Rice and beans](#rice-and-beans)
+- [Mac and cheese and tuna](#mac-and-cheese-and-tuna)
+- [Alfredo and salmon pasta](#alfredo-and-salmon-pasta)
+- [Thanksgiving leftovers](#thanksgiving-leftovers)
+- [Thai red curry chicken](#thai-red-curry-chicken)
+- [Peanut butter noodles](#peanut-butter-noodles)
+- [Cottage pie](#cottage-pie)
+- [Spaghetti and meat sauce](#spaghetti-and-meat-sauce)
+- [Red lentil marinara](#red-lentil-marinara)
+- [Red lentil and preserved lemon soup](#red-lentil-and-preserved-lemon-soup)
+- [Indian](#indian)
+
 ## RICE AND BEANS
 
 Main bag:

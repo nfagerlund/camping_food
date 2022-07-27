@@ -1,5 +1,15 @@
 # Lunch
 
+## Contents
+
+- [Hummus](#hummus)
+- [Red pepper hummus](#red-pepper-hummus)
+- [Bean dip](#bean-dip)
+- [White bean couscous](#white-bean-couscous)
+- [Moroccan spiced couscous](#moroccan-spiced-couscous)
+- [Cowboy caviar couscous](#cowboy-caviar-couscous)
+- [Pesto couscous](#pesto-couscous)
+
 ## HUMMUS
 
 For August 20:

@@ -1,5 +1,15 @@
 # Breakfast
 
+## Contents
+
+- [Raspberry oatmeal](#raspberry-oatmeal)
+- [Blueberry lemon oatmeal](#blueberry-lemon-oatmeal)
+- [Rice pudding](#rice-pudding)
+- [Apple quinoa porridge](#apple-quinoa-porridge)
+- [Parmesan grits with spinach](#parmesan-grits-with-spinach)
+- [Cheesy cheddar grits with mushrooms](#cheesy-cheddar-grits-with-mushrooms)
+- [Mashed potatoes](#mashed-potatoes)
+
 ## RASPBERRY OATMEAL
 
 - 1 cup "minute oats" from the bulk bins (or 3 tj's oatmeal packets)
