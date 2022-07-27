@@ -292,7 +292,8 @@ Bag 3:
 - 1 packet coconut oil
 
 Per NF:
-- Boil 3/4 cup water, and rehydrate rice with it. Set aside.
+- Boil 3/4 cup water, and add rice to it. Rehydrate fully in the pot, so you can raise the heat again if it's taking too long. (Basmati takes a while!)
+- Set rice aside in bowl.
 - Boil 2.25 cups water, and rehydrate soup with it.
 - Add coconut oil to soup.
 - Portion out with rice.
@@ -306,6 +307,8 @@ Per NF:
 - 1 packet coconut oil
 
 In camp:
-- Boil 3/4 cup water, rehydrate rice with it, set aside.
-- Water amounts for different Indian dishes:
+- Boil 3/4 cup water, and add rice to it. Rehydrate fully in the pot, so you can raise the heat again if it's taking too long. (Basmati takes a while!)
+- Set rice aside in bowl.
+- Boil lentil water, and rehydrate lentils. Amounts for different Indian dishes:
     - Tart red lentils: Between 1 3/4 and 2 cups (2 1/4 is too soupy)
+- Add coconut oil, then split and serve.
