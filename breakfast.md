@@ -47,6 +47,8 @@ Boil 2 cups water and add everything.
 
 Recipe: in "Lip Smackin Vegetarian Backpackin" p. 18
 
+Note: When storing together, put the fixins in a small bag and put that bag inside the larger bag containing rice. (If the fixins bag spills a bit, it doesn't matter; if you do the opposite and the inner rice bag spills, it's very annoying.)
+
 first bag:
 - 1 cup instant brown Minute Rice
 
@@ -59,7 +61,8 @@ second bag:
 - 1/4 cup dried cranberries
 - 2T chopped honey roasted peanuts
 
-Boil 1 3/4 cups water, add rice, heat 10 minutes.
+Mix rice with 1 3/4 cups water and boil together; keep hot for ??10?? (altitude?) minutes, re-boiling if needed.
+
 Add pudding mix, stir.
 
 ## APPLE QUINOA PORRIDGE
