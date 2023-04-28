@@ -305,8 +305,9 @@ Per NF:
 
 - dehydrate two servings (according to recipe) of whatever leftovers
   - about 1 cup cooked (pre-dehydrated) per person
-- 1/2 cup basmati rice dehydrated
+- 1/2 cup pre-cooked basmati rice, (1/4 per person), then cooked and then dehydrated
   - about 1 cup cooked (pre-dehydrated) per person
+  - about 50g dehydrated per person
 - 1 packet coconut oil
 
 In camp:
