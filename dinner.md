@@ -301,9 +301,12 @@ Per NF:
 ## INDIAN
 
 [🔝 Back to contents](#contents)
+(Various curries with lentils or chickpeas or other legumes. Basically anything not vegetarian that's not too fatty and doesn't have dairy works well.)
 
 - dehydrate two servings (according to recipe) of whatever leftovers
+  - about 1 cup cooked (pre-dehydrated) per person
 - 1/2 cup basmati rice dehydrated
+  - about 1 cup cooked (pre-dehydrated) per person
 - 1 packet coconut oil
 
 In camp:
