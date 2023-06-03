@@ -18,7 +18,7 @@
 - 2T chia seeds
 - 1/3 cup freeze dried raspberries
 - 1T Nido milk powder
-- 1/4 cup walnuts (?)
+- 1/4 cup walnuts
 
 - 2 packets brown sugar
 - 1 packet coconut oil
@@ -38,6 +38,22 @@ Boil 2 cups water and add everything.
 
 - 1 packet coconut oil
 - 2 packets brown sugar (1 each)
+
+Boil 2 cups water and add everything.
+
+## CHERRY CHOCOLATE OATMEAL
+
+[🔝 Back to contents](#contents)
+
+- 1 cup "minute oats" from the bulk bins (or 3 tj's oatmeal packets)
+- 2T chia seeds
+- 1/3 cup dried sour cherries
+- 2T chocolate chips
+- 1T Nido milk powder
+- 1/4 cup hazelnuts
+
+- 2 packets brown sugar
+- 1 packet coconut oil
 
 Boil 2 cups water and add everything.
 
