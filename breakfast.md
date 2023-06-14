@@ -66,7 +66,7 @@ Recipe: in "Lip Smackin Vegetarian Backpackin" p. 18
 Note: When storing together, put the fixins in a small bag and put that bag inside the larger bag containing rice. (If the fixins bag spills a bit, it doesn't matter; if you do the opposite and the inner rice bag spills, it's very annoying.)
 
 first bag:
-- 1 cup instant brown Minute Rice
+- 1 cup instant brown Minute Rice - 100g
 
 second bag:
 - 2T vanilla instant pudding
