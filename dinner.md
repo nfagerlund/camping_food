@@ -130,9 +130,9 @@ Prep: **Two bags.** First bag is almost everything, second is just the coconut c
 
 **Main bag:**
 
-- 116g rice
-- 25g TVP
-    - (recipe as written used 20g dehydrated chicken, but that tastes like nothing, so now we TVP.)
+- 140g rice
+- 40g TVP
+    - (recipe as written used 20g dehydrated chicken per person, but that tastes like nothing, so now we TVP.)
 - 2T freeze dried bell peppers
 - 2T freeze dried onion
 - 1 tsp dehydrated green onion
