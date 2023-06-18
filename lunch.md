@@ -9,6 +9,7 @@
 - [Moroccan spiced couscous](#moroccan-spiced-couscous)
 - [Cowboy caviar couscous](#cowboy-caviar-couscous)
 - [Pesto couscous](#pesto-couscous)
+- [Skurka beans](#skurka-beans)
 
 ## HUMMUS
 
@@ -161,3 +162,22 @@ separate:
 Lunch:
 Pack as two batches, first and second lunch. (Full amount needs a liter of capacity, talenti jar is a pint.)
 Cold soak (per batch): add 1 cup water, pack, eat for lunch.
+
+## SKURKA BEANS
+
+[🔝 Back to contents](#contents)
+
+Recipe: https://andrewskurka.com/backpacking-dinner-recipe-beans-rice-with-fritos-cheese/
+
+Make two bags for lunch, each with all of these ingredients:
+- 43g minute rice
+- 57g dehydrated refried beans
+- 1.5 tsp taco seasoning
+
+Also pack
+- spice packet of nutritional yeast
+- 2 oz fritos
+
+
+
+
