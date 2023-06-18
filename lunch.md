@@ -10,6 +10,8 @@
 - [Cowboy caviar couscous](#cowboy-caviar-couscous)
 - [Pesto couscous](#pesto-couscous)
 - [Skurka beans](#skurka-beans)
+- [Maggi noodles](#maggi-noodles)
+- [Sojourner noodles](#sojourner-noodles)
 
 ## HUMMUS
 
@@ -50,10 +52,28 @@ Rehydrate interactively in a Talenti jar in the morning. You can never guess the
 
 Recipe: pg. 68 in Lipsmackin' Vegetarian Backpackin'
 
-Pack as full 2-person lunch.
+Pack as full 2-person lunch (i.e. it's both first and second lunch).
 Cold soak with 1 cup water.
 Olive oil
 Caraway rye crisps.
+
+- 1 cup dry beans (I think we've used 1 or 2 cans of black beans? 1 cup dry = 3 cups cooked, which is 2 cans... but not sure that's what we've actually done. I guess try it and see?)
+- 1 tablespoon vegetable oil
+- 1 onion, finely chopped
+- 1 clove garlic, minced or pressed
+- 1 (15-oz) can diced tomatoes
+- 1 tsp dried oregon
+- 1 tsp dried cumin
+- a bit of lemon pepper?
+- 1/2 to 1 chipotle chili in adobo sauce, mashed
+- 1 tsp salt
+
+1. cook beans
+2. saute onion and garlic in oil unil softened
+3. add tomatoes, seasonings, chili and beans
+4. simmer over low heat until flavors blend
+5. run through foot processor until chopped but not pureed
+6. dehydrate
 
 ## WHITE BEAN COUSCOUS
 
@@ -178,6 +198,39 @@ Also pack
 - spice packet of nutritional yeast
 - 2 oz fritos
 
+# MAGGI NOODLES
 
+[🔝 Back to contents](#contents)
 
+Lunch: Pack two of the below, for first and second lunch
+  
+- 1.5 packets Maggi noodles
+- 1.5 spice packets
+- ~4T (~45g) chopped cashews
+- 3T dehydrated broccoli
+- 1.5T dried mushroom pieces
+- 1T dried onions? (haven't tried this but seems plausibly good)
 
+# SOJOURNER NOODLES
+
+[🔝 Back to contents](#contents)
+
+Recipe: https://www.thrueat.com/backpacking-recipes/sojourner-spicy-sesame-noodles
+
+Lunch: Pack two of the below, for first and second lunch
+
+- 1 packet ramen
+- 2.5-3T chopped peanuts
+- 1T roasted sesame seeds
+- 4-5 leaves?(3/4 tsp) dehydrated thai basil
+- 1 tsp dehydrated green onion
+- 1 tsp dehydrated cilantro
+- 1T (5g) dehydrated corn
+- 1/8 tsp true lime
+- 1/8 tsp ground ginger
+- 1/8 tsp ground pepper
+
+Condiments (x2 for first and second lunch):
+- 1 packet sriracha
+- 2 packets soy sauce
+- 1T sesame oil (in a packet)
