@@ -79,6 +79,21 @@ Caraway rye crisps.
 
 [🔝 Back to contents](#contents)
 
+Prep: Make two bags per lunch, and put ALL of the below ingredients into each.
+- couscous, 1/3 cup (75g of the whole wheat TJ's stuff)
+- dehydrated white beans (1/2 can, probably ~1/2 cup dried)
+- sun-dried tomatoes (1/6 - 1/4 cup, 20-23g)
+- 0.75T (2.25tsp) dried onions
+- 0.5T dried bell pepper
+- 1/2 tsp bouillion
+- spices, pre-mixed in:
+    - paprika (1/4tsp)
+    - oregano (1/2tsp)
+    - basil (1/2tsp)
+    - salt (1/4tsp)
+    - pepper (1/4tsp)
+    - garlic powder (1/4tsp)
+
 Prep: Make two bags per lunch, and put HALF of each ingredient into each.
 
 - couscous, 2/3 cup (150g of the whole wheat TJ's stuff)
@@ -113,17 +128,16 @@ Notes: Previously, we made this with 1 cup couscous, but it was too much food fo
 
 [🔝 Back to contents](#contents)
 
-Prep: Make two bags per lunch, and put HALF of each ingredient into each.
-
-- can dehydrated chickpeas (~ 90g, /2 = 45g)
-- 2/3 cup couscous (150g, /2 = 75g)
-- 1/3 cup dried chopped apricots (50g, 25g)
-- 1/3 cup chopped almonds (50g, 25g)
-- 1/3 cup raisins (50g, 25g)
-- 1 tbsp ras al hanout
-- 1/2 tsp true lemon
-- 1/2 tsp chicken broth
-- 1/2 tsp salt (diamond crystal)
+Prep: Make two bags per lunch, and put ALL of the below ingredients into each.
+- 1/2 can dehydrated chickpeas (~45g)
+- 1/3 cup couscous (75g)
+- 1/6 cup dried chopped apricots (25g)
+- 1/6 cup chopped almonds (25g)
+- 1/6 cup raisins (25g)
+- 1/2 Tbsp ras al hanout
+- 1/4 tsp true lemon
+- 1/4 tsp chicken broth
+- 1/4 tsp salt (diamond crystal)
 
 Separately:
 - olive oil x2
@@ -135,22 +149,20 @@ Cold soak (per batch): add 1 cup water, pack, eat for lunch.
 
 [🔝 Back to contents](#contents)
 
-Prep: Make two bags per lunch, and put HALF of each ingredient into each.
-
-- couscous - 2/3 cup
-- black bean - 1 can dehydrated
-- 4T pico de gallo
-  - from https://www.foodnetwork.com/recipes/ree-drummond/pico-de-gallo-recipe-2122359 (made 1/3 which is still a massive amount)
-- 3T dehydrated peppers
-- 3T corn
-- 1 tsp true lime
+Prep: Make two bags per lunch, and put ALL of the below ingredients into each.
+- couscous - 1/3 cup
+- black bean - 1/2 can dehydrated - ~1/2 cup dried
+- 2T pico de gallo
+  - from https://www.foodnetwork.com/recipes/ree-drummond/pico-de-gallo-recipe-2122359 (made 1/3 of this which is still a massive amount)
+- 1.5T dehydrated peppers
+- 1.5T corn
+- 1/2 tsp true lime
 - cumin + chili powder (spice mix)
-    - 1/2 tsp cumin ground
-    - 1/4 tsp chili powder
-        - _(re-evaluate post-Muir)_
-    - 1/2 tsp garlic powder
-- 1/2 tsp chicken boullion powder
-- 1/2 tsp salt (diamond crystal kosher)
+    - 1/4 tsp cumin ground
+    - 1/8 tsp chili powder
+    - 1/4 tsp garlic powder
+- 1/4 tsp chicken boullion powder
+- 1/4 tsp salt (diamond crystal kosher)
 
 Separately:
 - olive oil packet x2
@@ -161,6 +173,8 @@ Cold soak (per batch): add 1 cup water, pack, eat for lunch.
 ## PESTO COUSCOUS
 
 [🔝 Back to contents](#contents)
+
+(This was kinda meh, not any improvement over the regular white bean couscous).
 
 Prep: Make two bags per lunch, and put HALF of each ingredient into each.
 
