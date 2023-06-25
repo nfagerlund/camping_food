@@ -56,7 +56,7 @@ Notes:
     - pasta
     - cheese powder
 - packet of tuna
-- dried peas (1/2 cup frozen, whatever that comes to when dried)
+- dried peas (1/2 cup frozen, 3T dried)
     - (used to be 1/3 cup)
 - nido milk (optional)
 - dried parsley
