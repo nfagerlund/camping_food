@@ -9,6 +9,7 @@
 - [Moroccan spiced couscous](#moroccan-spiced-couscous)
 - [Cowboy caviar couscous](#cowboy-caviar-couscous)
 - [Pesto couscous](#pesto-couscous)
+- [Sumac couscous](#sumac-couscous)
 - [Skurka beans](#skurka-beans)
 - [Maggi noodles](#maggi-noodles)
 - [Sojourner noodles](#sojourner-noodles)
@@ -150,7 +151,7 @@ Cold soak (per batch): add 1 cup water, pack, eat for lunch.
 [🔝 Back to contents](#contents)
 
 Prep: Make two bags per lunch, and put ALL of the below ingredients into each.
-- couscous - 1/3 cup
+- 1/3 cup couscous (75g)
 - black bean - 1/2 can dehydrated - ~1/2 cup dried
 - 2T pico de gallo
   - from https://www.foodnetwork.com/recipes/ree-drummond/pico-de-gallo-recipe-2122359 (made 1/3 of this which is still a massive amount)
@@ -195,6 +196,30 @@ separate:
 
 Lunch:
 Pack as two batches, first and second lunch. (Full amount needs a liter of capacity, talenti jar is a pint.)
+Cold soak (per batch): add 1 cup water, pack, eat for lunch.
+
+## SUMAC COUSCOUS
+
+[🔝 Back to contents](#contents)
+
+Prep: Make two bags per lunch, and put ALL of the below ingredients into each.
+- 1/2 can dehydrated chickpeas (~45g)
+- 1/4 of a red onion, dried... like 2.5T dried?
+- 1.5T dehydrated bell pepper
+- 1T sesame seeds
+- 1/2 - 1 tsp sumac? (did a heaping half tsp)
+- an amount of dried parsley (2T?)
+- an amount of dried mint (like 1/4 of one of those herb packets from TJ's, dried)
+- 1/4 tsp garlic powder
+- 1/8 tsp black pepper (just did 8 grinds of pepper)
+- 1/2 tsp true lemon
+- 1/4 tsp chicken broth
+- 1/4 tsp salt (diamond crystal)
+
+Separately:
+- olive oil x2
+
+Pack as two batches, first and second lunch.
 Cold soak (per batch): add 1 cup water, pack, eat for lunch.
 
 ## SKURKA BEANS
