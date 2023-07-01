@@ -24,6 +24,7 @@ Jasmine or basmati rice --
 - 3/4 cup water rehydrates 1/2 cup rice (uncooked amt) (or 70g dehydrated cooked).
 - 1 cup uncooked yields 140g cooked-and-dehydrated rice... and 1/2 cup uncooked (so 70g dried) feeds both of us when served with a meal that has lentils in it. The red curry uses a bit more, over 3/4 cup uncooked, and we handle the rehydration differently.
 
+TJ's dried mango bag = 170g and is enough for like four days. 
 
 # Dry/wet equivalencies
 
