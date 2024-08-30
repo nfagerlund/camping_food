@@ -214,15 +214,18 @@ Bag 2:
 - 1/2 tsp garlic powder
 
 Separate:
-- 4oz packet of garlic instant mashed potatoes
+- 4oz packet of (garlic or 4-cheese) instant mashed potatoes
+- Cheese stick if you have one
 
 Per NF:
 - Cold soak beef & veg bag, ~ 1 cup water, 30m.
-- Bring soaked beef/veg to boil (w/ more water? if needed), wait, check for doneness.
-- Put gravy powders in bowl. Strain some beef/veg water directly into it and mix to proper consistency.
-- Strain remaining beef/veg water into Talenti jar and set aside, in case gravy needs more later.
-- Add strained beef/veg to gravy in bowl, set aside. Don't worry about getting cold.
-- Cook garlic mashed potatoes (whole bag, if solidly hungry) per instructions.
+- Boil beef/veg (w/ more water? if needed), wait, check for doneness.
+- Put gravy powders in bowl. Strain some beef/veg water directly into it and mix to thin consistency.
+- Transfer finished gravy to Talenti jar.
+- Strain remaining beef/veg water into bowl and set aside.
+- Add strained beef/veg to gravy in Talenti jar, shake to mix, set aside. Don't worry about cooling.
+- Re-use beef/veg water (plus more) to cook mashed potatoes (per packaging).
+    - Or, if you're cold you can straight drink it.
 - Divide both parts, use heat from taters to re-heat the beef/veg.
 
 ## SPAGHETTI AND MEAT SAUCE
@@ -238,6 +241,8 @@ Bag 1:
 
 Bag 2:
 - 150g spaghetti
+    - "thick spaghetti" works best! It still tastes like a pasta shape when smashed into 2" lengths.
+    - Do not attempt angel hair. The worst.
 
 Bag 3:
 - dried pasta sauce... something that looks like the right amount, ground to powder. maybe like 40g (is what we are trying for olympics - half a jar dried)
@@ -252,7 +257,7 @@ Per NF:
     - Noodles in bowl
     - Beef and veg in talenti jar
 - Transfer beef and veg into pot, add more water if needed (but leave room for noodles!), and bring to a boil. Stir, let rest.
-- Put dried sauce in talenti jar, and strain boiling water over it. Mash to mix/rehydrate.
+- Put dried sauce in talenti jar, and strain hot water over it. Mash to mix/rehydrate until it's a THIN sauce consistency. This may take almost all the beef water.
 - Wait 3-5 minutes for ground beef to start floating. (It may or may not do this. Test for doneness if you get impatient.)
 - Once beef is done, add noodles. Bring heat back up, let rest, etc.
 - Check sauce texture one last time, and strain more water into it if needed.
