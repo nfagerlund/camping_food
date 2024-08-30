@@ -13,6 +13,7 @@
 - [Red lentil marinara](#red-lentil-marinara)
 - [Red lentil and preserved lemon soup](#red-lentil-and-preserved-lemon-soup)
 - [Indian](#indian)
+- [Collards and red beans](#collards-and-red-beans)
 
 ## RICE AND BEANS
 
@@ -321,3 +322,23 @@ In camp:
 - Boil lentil water, and rehydrate lentils. Amounts for different Indian dishes:
     - Tart red lentils: Between 1 3/4 and 2 cups (2 1/4 is too soupy)
 - Add coconut oil or ghee, then split and serve.
+
+## COLLARDS AND RED BEANS
+
+[🔝 Back to contents](#contents)
+
+Instant pot recipe is in the green folder... should probably write it down here later.
+
+Dehydrate, bag separately:
+
+- 1 cup brown rice per person
+- A bit more than 1 cup cooked collards dish per person
+- 1 packet olive oil
+
+In camp:
+
+- Boil 1 cup water and rice together; let rest 15m (stir at 10m).
+    - Might require re-boil, it's tenacious.
+    - Transfer to Talenti jar.
+- Carefully boil collards with a bit more water than it takes to cover them in the pot; cover and let rest.
+- Add 1 packet olive oil.
