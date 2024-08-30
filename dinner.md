@@ -313,11 +313,11 @@ Per NF:
 - 1/2 cup pre-cooked basmati rice, (1/4 per person), then cooked and then dehydrated
   - about 1 cup cooked (pre-dehydrated) per person
   - about 50g dehydrated per person
-- 1 packet coconut oil
+- 1 packet coconut oil or ghee
 
 In camp:
-- Boil 3/4 cup water, and add rice to it. Rehydrate fully in the pot, so you can raise the heat again if it's taking too long. (Basmati takes a while!)
-- Set rice aside in bowl.
+- Boil 3/4 cup water and rice together. Rehydrate fully in the pot, so you can raise the heat again if it's taking too long. (Basmati takes a while at altitude!)
+- Set rice aside in talenti jar.
 - Boil lentil water, and rehydrate lentils. Amounts for different Indian dishes:
     - Tart red lentils: Between 1 3/4 and 2 cups (2 1/4 is too soupy)
-- Add coconut oil, then split and serve.
+- Add coconut oil or ghee, then split and serve.
