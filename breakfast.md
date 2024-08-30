@@ -23,7 +23,7 @@
 - 2 packets brown sugar
 - 1 packet coconut oil
 
-Boil 2 cups water and add everything.
+Boil 2 1/8 cups water and add everything.
 
 ## BLUEBERRY LEMON OATMEAL
 
@@ -39,7 +39,7 @@ Boil 2 cups water and add everything.
 - 1 packet coconut oil
 - 2 packets brown sugar (1 each)
 
-Boil 2 cups water and add everything.
+Boil 2 1/8 cups water and add everything.
 
 ## CHERRY CHOCOLATE OATMEAL
 
@@ -67,6 +67,7 @@ Note: When storing together, put the fixins in a small bag and put that bag insi
 
 first bag:
 - 1 cup instant brown Minute Rice - 100g
+    - OR: dehydrate 1 cup per person cooked brown rice, it tastes much better and isn't that much worse to rehydrate
 
 second bag:
 - 2T vanilla instant pudding
@@ -77,7 +78,7 @@ second bag:
 - 1/4 cup dried cranberries
 - 2T chopped honey roasted peanuts
 
-Mix rice with 1 3/4 cups water and boil together; keep hot for ??10?? (altitude?) minutes, re-boiling if needed.
+Mix rice with 1 3/4 cups water and boil together; rest for 15 minutes, re-boiling if needed. This deliberately results in rice in a puddle.
 
 Add pudding mix, stir.
 
