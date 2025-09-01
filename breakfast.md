@@ -63,13 +63,10 @@ Boil 2 cups water and add everything.
 
 Recipe: in "Lip Smackin Vegetarian Backpackin" p. 18
 
-Note: When storing together, put the fixins in a small bag and put that bag inside the larger bag containing rice. (If the fixins bag spills a bit, it doesn't matter; if you do the opposite and the inner rice bag spills, it's very annoying.)
+Note: The original recipe says to keep the rice and the fixins separate, but multiple times I've messed up and combined them, and it works fine! So we just do that now.
 
-first bag:
-- 1 cup instant brown Minute Rice - 100g
-    - OR: dehydrate 1 cup per person cooked brown rice, it tastes much better and isn't that much worse to rehydrate
-
-second bag:
+- Dehydrate 2 cups cooked brown rice
+    - (Alternately: 1 cup instant brown Minute Rice - 100g. But it tastes worse and isn't much easier to rehydrate.)
 - 2T vanilla instant pudding
 - 2T powdered milk
 - 2T coconut cream powder
@@ -78,9 +75,7 @@ second bag:
 - 1/4 cup dried cranberries
 - 2T chopped honey roasted peanuts
 
-Mix rice with 1 3/4 cups water and boil together; rest for 15 minutes, re-boiling if needed. This deliberately results in rice in a puddle.
-
-Add pudding mix, stir.
+Mix with 1 3/4 cups water and boil together; rest for 15 minutes, re-boiling if needed.
 
 ## APPLE QUINOA PORRIDGE
 

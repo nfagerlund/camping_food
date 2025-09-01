@@ -237,12 +237,14 @@ Also pack
 - spice packet of nutritional yeast
 - 2 oz fritos
 
+Prep: cold soak beans and rice with enough water to cover plus 1/4".
+
 # MAGGI NOODLES
 
 [🔝 Back to contents](#contents)
 
 Lunch: Pack two of the below, for first and second lunch
-  
+
 - 1.5 packets Maggi noodles
 - 1.5 spice packets
 - ~4T (~45g) chopped cashews
@@ -273,3 +275,5 @@ Condiments (x2 for first and second lunch):
 - 1 packet sriracha
 - 2 packets soy sauce
 - 1T sesame oil (in a packet)
+
+Prep: cold soak 1 cup water, and everything but the condiments for one serving.

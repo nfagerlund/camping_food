@@ -219,15 +219,16 @@ Separate:
 - Cheese stick if you have one
 
 Per NF:
-- Cold soak beef & veg bag, ~ 1 cup water, 30m.
-- Boil beef/veg (w/ more water? if needed), wait, check for doneness.
-- Put gravy powders in bowl. Strain some beef/veg water directly into it and mix to thin consistency.
-- Transfer finished gravy to Talenti jar.
-- Strain remaining beef/veg water into bowl and set aside.
-- Add strained beef/veg to gravy in Talenti jar, shake to mix, set aside. Don't worry about cooling.
-- Re-use beef/veg water (plus more) to cook mashed potatoes (per packaging).
-    - Or, if you're cold you can straight drink it.
-- Divide both parts, use heat from taters to re-heat the beef/veg.
+- Cold soak beef & veg in talenti jar, water to fill, 30m.
+- Boil beef/veg (plus more water if needed), rest, check for doneness, reboil if needed.
+- Strain all beef/veg water into bowl, then pour into thermos. (Strainer is too sloppy for the narrow opening.)
+    - Can drink it while cooking, or re-use it to cook potatoes
+- Put gravy powders in bowl. Pour some beef/veg water into it and mix to proper consistency, crushing the tomato paste chunks as best you can.
+    - It thickens, so be ready to add more water.
+- Add strained beef/veg to gravy in bowl, mix, set aside. Don't worry about cooling.
+- Cook mashed potatoes (per packaging), possibly using beef water.
+- Divide both parts, rely on heat from taters to re-heat the beef/veg.
+    - You can put half the beef/veg/gravy mix in the talenti jar as a staging area for dividing.
 
 ## SPAGHETTI AND MEAT SAUCE
 
@@ -244,6 +245,7 @@ Bag 2:
 - 150g spaghetti
     - "thick spaghetti" works best! It still tastes like a pasta shape when smashed into 2" lengths.
     - Do not attempt angel hair. The worst.
+    - Resist the urge to add just a little more. This is full capacity.
 
 Bag 3:
 - dried pasta sauce... something that looks like the right amount, ground to powder. maybe like 40g (is what we are trying for olympics - half a jar dried)
@@ -255,10 +257,10 @@ Directions:
 
 Per NF:
 - Cold soak separately, for 30m:
-    - Noodles in bowl
+    - Noodles in supported ziplock bag
     - Beef and veg in talenti jar
 - Transfer beef and veg into pot, add more water if needed (but leave room for noodles!), and bring to a boil. Stir, let rest.
-- Put dried sauce in talenti jar, and strain hot water over it. Mash to mix/rehydrate until it's a THIN sauce consistency. This may take almost all the beef water.
+- Put dried sauce in bowl, and strain hot water over it. Mash to mix/rehydrate until it's a THIN sauce consistency. This may take almost all the beef water.
 - Wait 3-5 minutes for ground beef to start floating. (It may or may not do this. Test for doneness if you get impatient.)
 - Once beef is done, add noodles. Bring heat back up, let rest, etc.
 - Check sauce texture one last time, and strain more water into it if needed.
@@ -318,7 +320,7 @@ Per NF:
 
 In camp:
 - Boil 3/4 cup water and rice together. Rehydrate fully in the pot, so you can raise the heat again if it's taking too long. (Basmati takes a while at altitude!)
-- Set rice aside in talenti jar.
+- Set rice aside in bowl or talenti jar.
 - Boil lentil water, and rehydrate lentils. Amounts for different Indian dishes:
     - Tart red lentils: Between 1 3/4 and 2 cups (2 1/4 is too soupy)
 - Add coconut oil or ghee, then split and serve.
