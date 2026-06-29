@@ -153,8 +153,7 @@ Cold soak (per batch): add 1 cup water, pack, eat for lunch.
 Prep: Make two bags per lunch, and put ALL of the below ingredients into each.
 - 1/3 cup couscous (75g)
 - black bean - 1/2 can dehydrated - ~1/2 cup dried
-- 2T pico de gallo
-  - from https://www.foodnetwork.com/recipes/ree-drummond/pico-de-gallo-recipe-2122359 (made 1/3 of this which is still a massive amount)
+- 2T pico de gallo (see below)
 - 1.5T dehydrated peppers
 - 1.5T corn
 - 1/2 tsp true lime
@@ -170,6 +169,26 @@ Separately:
 
 Pack as two batches, first and second lunch. (Full amount needs a liter of capacity, talenti jar is a pint.)
 Cold soak (per batch): add 1 cup water, pack, eat for lunch.
+
+### Pico de gallo
+
+From https://www.foodnetwork.com/recipes/ree-drummond/pico-de-gallo-recipe-2122359 -- we make 1/3 of this to dehydrate, which is still a massive amount. Here's the 1/3 version:
+
+1 red onion
+4 roma tomatoes
+2/3 cup fresh cilantro
+1 jalapeño
+1-3 limes?
+salt
+
+Dice equal quantities onion and tomato. Watch out for too much onion, it happens.
+
+Roughly chop the cilantro.
+
+De-seed the jalapeño and dice very fine.
+
+Juice the lime, combine everything plus salt, add more salt or lime as needed.
+
 
 ## PESTO COUSCOUS
 
