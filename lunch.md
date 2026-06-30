@@ -279,7 +279,7 @@ Recipe: https://www.thrueat.com/backpacking-recipes/sojourner-spicy-sesame-noodl
 
 Lunch: Pack two of the below, for first and second lunch
 
-- 1 packet ramen
+- 1 packet ramen (~3oz, ~84g)
 - 2.5-3T chopped peanuts (20g)
 - 1T roasted sesame seeds
 - 4-5 leaves?(3/4 tsp) dehydrated thai basil
