@@ -14,12 +14,7 @@ Unless otherwise noted, these amounts are all for two people!
 
 ## Trail mix
 
-- **111g per person-day.**
-    - This was our measured usage for a 7-day Wonderland hike in 2025.
-    - I would expect this to go up after the first week, but we don't have good measurements for that yet! Plan for a conservative increase? Maybe to 130g?
-- The best snacking bag is an emptied TJ's dried cherries bag. This holds about 275g of trail mix.
-- Nick always over-packs the goddamn trail mix, and it's heavy!!
-- Nick eats more trail mix than Ruth. Ruth can basically never eat a full cherry bag per day; Nick can only eat a full cherry bag AFTER day 7, when their metabolism flips over.
+See [trailmix.md](./trailmix.md)
 
 ## Toilet paper
 
